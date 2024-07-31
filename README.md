@@ -1,7 +1,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://lakshaysportfolio.vercel.app/" target="_blank"></a>
+My personal portfolio "https://lakshaysportfolio.vercel.app/"
 This project was built using these technologies.
 
 - React.js
